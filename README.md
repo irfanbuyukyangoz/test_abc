@@ -2,5 +2,10 @@
 
 [İrfan BÜYÜKYANGÖZ](https://github.com/irfanbuyukyangoz)
 
-1- Deneme
-2- :star:
+ 
+:star: 1
+:star: 2
+:star: 3
+:star: 4
+:star: 5
+:star: 6
