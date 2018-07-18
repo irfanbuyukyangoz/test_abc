@@ -6,9 +6,7 @@
 :star: 1
 :star: 2
 ssssssss
-ssdsd
-var a=1230123;
-222222222
+var m=213412;
 :star: 3
 :star: 4
 :star: 5
